@@ -77,8 +77,7 @@ return 0;
 }
 ```
 ## OUTPUT
-![o1](<output/Screenshot from 2024-10-17 09-48-59.png>)
-![o2](<output/Screenshot from 2024-10-17 09-44-38.png>)
-
+![Screenshot 2024-10-17 133010](https://github.com/user-attachments/assets/809dff65-21bb-4136-8b75-516994d04c3c)
+![Screenshot 2024-10-17 133051](https://github.com/user-attachments/assets/6647116b-4d12-4a3f-9eb9-09e473416e21)
 # RESULT:
 The programs are executed successfully.
